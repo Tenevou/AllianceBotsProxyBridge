@@ -1,0 +1,5 @@
+name: AllianceBotsProxyBridge
+main: ru.alliancemc.alliancebots.bridge.AllianceBotsProxyBridgePlugin
+version: 1.0.0
+author: alliancemc
+description: Adds AllianceBots virtual online counts on the proxy.
